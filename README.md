@@ -1,5 +1,6 @@
 # kodi.screensaver.pimon
 
+Forked and removed the idiotic Nyancat stuff
 
 ##Install
 
